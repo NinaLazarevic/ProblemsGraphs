@@ -1,0 +1,11 @@
+Problem 1:
+
+Find node with highest indegree.
+
+Problem 2:
+
+Find if graph is strongly connected.
+
+Problem 3:
+
+Implement function bool wordExists(char* wordToFind) which will check if given word exist in graph (if there is path).

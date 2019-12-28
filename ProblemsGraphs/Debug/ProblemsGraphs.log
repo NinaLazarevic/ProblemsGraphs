@@ -1,0 +1,2 @@
+﻿ProblemsGraphs.obj : error LNK2019: unresolved external symbol "public: __thiscall Graph<int>::~Graph<int>(void)" (??1?$Graph@H@@QAE@XZ) referenced in function _main
+D:\GitHub\ProblemsGraphs\Debug\ProblemsGraphs.exe : fatal error LNK1120: 1 unresolved externals
